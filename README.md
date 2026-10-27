@@ -58,7 +58,7 @@ swift build --disable-sandbox --scratch-path .build
 
 ## 图形界面与 TFT 图像
 
-运行 `scripts/build-app.sh` 可生成 `dist/VK99 macOS.app`，再运行 `scripts/install-app.sh` 安装到 `~/Applications` 并打开。新安装默认启用登录项；“基本”Tab 中的开关可控制启动时同步与自动校时；“设置”Tab 可直接管理常用配置。
+运行 `scripts/build-app.sh` 可生成 `dist/VK99 macOS.app`，再运行 `scripts/install-app.sh` 安装到 `~/Applications` 并打开。运行 `scripts/package-dmg.sh` 可重新构建并生成 `dist/VK99-macOS-<版本号>.dmg`；打开 DMG 后将 app 拖到 Applications 即可安装。该构建使用临时签名，若要面向其他用户分发，仍需使用 Apple Developer ID 签名并公证。新安装默认启用登录项；“基本”Tab 中的开关可控制启动时同步与自动校时；“设置”Tab 可直接管理常用配置。
 
 “基本”Tab 显示电脑时间、最近一次成功发送时间、手动同步入口和自动同步策略。连接模式仅在识别到对应 HID 产品和传输方式时显示 USB、2.4G 接收器和键盘型号。
 
