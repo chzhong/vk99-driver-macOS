@@ -1,0 +1,84 @@
+VK99 Driver macOS Non-Commercial License
+Version 1.0, October 2026
+
+Copyright (c) 2026 chzhong
+
+This repository and all source code, scripts, resources, and related materials
+("Software") are licensed under the following terms.
+
+1. Grant of License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this Software to use, copy, modify, merge, publish, distribute, and/or
+sublicense the Software for personal, educational, research, or other
+non-commercial purposes only, subject to the conditions below.
+
+2. Permitted Uses
+
+The following uses are permitted without additional authorization:
+
+- Personal use
+- Educational use
+- Research and academic use
+- Non-commercial development and experimentation
+- Sharing copies of the Software for non-commercial purposes
+- Modifying the Software for non-commercial purposes
+
+3. Prohibited Uses
+
+The following uses are expressly prohibited without prior written permission
+from the copyright holder:
+
+- Commercial use
+- Use in or with any for-profit product, service, or business operation
+- Sale, licensing, or distribution for payment or revenue generation
+- Use by an employer or organization for commercial work or internal business
+  operations when the use is not purely non-commercial
+- Distribution of modified or unmodified Software as part of any paid service,
+  product, or subscription
+
+4. Conditions for Redistribution
+
+If you redistribute the Software or any modified version of it, you must:
+
+- retain this license text in full;
+- include the copyright notice above;
+- clearly state that the redistributed Software is licensed under this
+  Non-Commercial License;
+- indicate any changes made to the Software;
+- not remove or alter attribution to the original author;
+- not use the Software or any derivative work in any commercial context.
+
+5. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+6. Commercial Licensing
+
+Any commercial use, including but not limited to monetized distribution,
+for-profit deployment, internal business use, or integration into commercial
+products or services, requires a separate written commercial license from the
+copyright holder.
+
+To request such a license, please contact the repository owner via GitHub or
+other means provided by the project author.
+
+7. Termination
+
+This license is automatically terminated if you violate any of its terms.
+Upon termination, you must cease all use, copying, modification,
+redistribution, and commercialization of the Software.
+
+8. Governing Law
+
+This license is governed by the laws of the jurisdiction where the copyright
+holder resides, without regard to conflict of law principles.
+
+This License is intended to preserve the author's non-commercial intent while
+still allowing private, educational, and research use.
