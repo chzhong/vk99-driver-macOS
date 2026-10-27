@@ -1,0 +1,107 @@
+# 展示用目录。raw 为 null 表示尚未确认设备协议值；编辑此文件不会启用设备写入。
+screens:
+  - label: 设置
+    raw: null
+    evidence: 用户提供的屏幕名称
+  - label: 动画
+    raw: null
+    evidence: 用户提供的屏幕名称
+  - label: 状态
+    raw: null
+    evidence: 用户提供的屏幕名称
+languages:
+  - label: 中文
+    raw: null
+    evidence: Windows language/2052.lan 为界面语言，不是设备值
+  - label: 英文
+    raw: null
+    evidence: Windows language/1033.lan 为界面语言，不是设备值
+colors:
+  - label: RGB
+    raw: null
+    evidence: 用户提供
+  - label: 红
+    raw: null
+    evidence: 用户提供
+  - label: 橙
+    raw: null
+    evidence: 用户提供
+  - label: 黄
+    raw: null
+    evidence: 用户提供
+  - label: 绿
+    raw: null
+    evidence: 用户提供
+  - label: 青
+    raw: null
+    evidence: 用户提供
+  - label: 蓝
+    raw: null
+    evidence: 用户提供
+  - label: 紫
+    raw: null
+    evidence: 用户提供
+  - label: 白
+    raw: null
+    evidence: 用户提供
+effects:
+  - label: 随波逐流
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 531
+  - label: 峰回路转
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 532
+  - label: 一触即发
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 533
+  - label: 一石二鸟
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 534
+  - label: 涟漪扩散
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 535
+  - label: 川流不息
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 536
+  - label: 重峦叠嶂
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 537
+  - label: 斜风细雨
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 538
+  - label: 来回穿梭
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 539
+  - label: 静态恒亮
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 521
+  - label: 单点亮
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 522
+  - label: 单熄灭
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 523
+  - label: 繁星点点
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 524
+  - label: 漫天飞雪
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 525
+  - label: 百花争艳
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 526
+  - label: 动态呼吸
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 527
+  - label: 光谱循环
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 528
+  - label: 彩泉涌动
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 529
+  - label: 多彩纵横
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 530
+  - label: 关闭背光
+    raw: null
+    evidence: Windows language/2052.lan 仅确认界面名称 540

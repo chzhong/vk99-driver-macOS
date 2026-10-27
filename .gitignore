@@ -1,0 +1,24 @@
+# Swift and packaged application output
+.build/
+.swiftpm/
+dist/
+
+# macOS/editor metadata
+.DS_Store
+*.xcuserstate
+
+# Local proprietary Windows drivers and REA output
+local-research/
+analysis/rea-*.json
+analysis/diagnostics/
+*.exe
+*.dll
+*.msi
+*.zip
+*.7z
+*.rar
+*.dmg
+*.pkg
+
+# Locally generated image payloads
+*.vk99.bin
